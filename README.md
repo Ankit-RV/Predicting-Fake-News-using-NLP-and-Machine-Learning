@@ -13,4 +13,5 @@ A simple guide to applying traditional machine learning and deep learning techni
 
 * Developed effective data visualization techniques to display the results of text and stylometric analyses, improving the overall presentation of findings.
 
+
 * Improved data cleaning processes by identifying and addressing issues such as null values in the text articles, titles, and author columns, ultimately enhancing the accuracy of the machine learning model.
